@@ -13,3 +13,5 @@ mv models ~/ardupilot_gazebo
 ```
 
 Modeliniz kullanıma hazır, şimdi gazebo_camera_open.py dosyası içerisinde bulunan örnek kullanıma göz atarak kameraya erişebilir, frame'i kullanarak görüntü işleyebilirisiniz..
+
+![](https://github.com/1yakupoguz/hexacopter-drone/blob/07c1b72aee84ad04d952f50763c99ca2543c2b2f/frame.png)
